@@ -1,0 +1,9 @@
+# qmsWrapper software item mapping
+softwareItems:
+  - id: 1
+    paths: ["src/core/**"]
+  - id: 2
+    paths: ["src/ui/**"]
+  - id: 999999
+    paths: ["x/**"]
+tooling: 2
